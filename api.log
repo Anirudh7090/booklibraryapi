@@ -1,0 +1,17 @@
+2025-08-18 15:55:57,004 - INFO - GET /books/author/1
+2025-08-18 15:56:22,286 - INFO - GET /books/author/2
+2025-08-18 15:56:25,011 - INFO - GET /books/author/2
+2025-08-18 15:56:47,750 - INFO - GET /books/10
+2025-08-18 15:56:47,750 - ERROR - Book with id 10 not found
+2025-08-18 15:59:28,141 - INFO - GET /books/2
+2025-08-18 16:00:33,225 - INFO - PUT /books/4 - Updating book
+2025-08-18 16:00:33,225 - ERROR - Book with id 4 not found for update
+2025-08-18 16:05:27,400 - INFO - PUT /books/1 - Updating book
+2025-08-18 16:09:32,037 - INFO - DELETE /books/1
+2025-08-18 16:10:16,588 - INFO - GET /books/author/2
+2025-08-18 16:10:57,181 - INFO - GET /books/author/Bob
+2025-08-18 16:11:10,249 - INFO - GET /books/author/Alice
+2025-08-18 16:15:41,232 - INFO - POST /books - Creating book: {'title': 'My New Book', 'author': 'Sam', 'description': 'A story about Me.', 'published_year': 2025}
+2025-08-18 16:16:19,230 - INFO - GET /books/author/Sam
+2025-08-18 16:31:56,368 - INFO - GET /books/1
+2025-08-18 16:33:03,975 - INFO - GET /books/author/Alice
