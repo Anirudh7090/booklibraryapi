@@ -16,9 +16,9 @@ app = FastAPI(
 
 
 books_db = [
-    {"id": 1, "title": "Book One", "author": "Alice", "description": "First book", "published_year": 2021},
-    {"id": 2, "title": "Book Two", "author": "Bob", "description": "Second book", "published_year": 2020},
-    {"id": 3, "title": "Book Three", "author": "Alice", "description": "Third book", "published_year": 2022}
+    {"id": 1, "title": "Book One", "author": "Anirudh", "description": "First book", "published_year": 2021},
+    {"id": 2, "title": "Book Two", "author": "Sohan", "description": "Second book", "published_year": 2020},
+    {"id": 3, "title": "Book Three", "author": "Anant", "description": "Third book", "published_year": 2022}
 ]
 
 
